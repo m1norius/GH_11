@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="figures.TriangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-23T22:38:53" hostname="DESKTOP-J4K6QL4" time="0.672">
+  <properties/>
+  <testcase name="isValidateForExistence" classname="figures.TriangleTest" time="0.672"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
